@@ -17,7 +17,7 @@ VimIDE 是一款支持团队协同的集成化开发环境。与同类产品相�
 将 VJ 配置文件下载到任意「有权限的」文件夹下：
 
 ```bash
-git clone git@github.com:leiming/vimide.git
+git clone git@github.com:xcodecraft/vimide.git
 ```
 
 ### 2、设置并部署 VJ
