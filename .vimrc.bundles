@@ -38,7 +38,7 @@ Bundle "honza/vim-snippets",                  {'bundle_dir': team_bundle_dir}
 Bundle 'ervandew/supertab',                   {'bundle_dir': team_bundle_dir}
 Bundle 'ervandew/matchem',                    {'bundle_dir': team_bundle_dir}
 Bundle "shawncplus/phpcomplete.vim",          {'bundle_dir': team_bundle_dir}
-" Bundle "Valloric/YouCompleteMe",            {'bundle_dir': team_bundle_dir}
+Bundle "Valloric/YouCompleteMe",            {'bundle_dir': team_bundle_dir}
 
 Bundle 'rking/ag.vim',                        {'bundle_dir': team_bundle_dir}
 Bundle 'dyng/ctrlsf.vim',                     {'bundle_dir': team_bundle_dir}
@@ -72,6 +72,9 @@ Bundle "othree/html5.vim",                    {'bundle_dir': team_bundle_dir}
 Plugin 'maksimr/vim-jsbeautify',              {'bundle_dir': team_bundle_dir}
 Plugin 'Chiel92/vim-autoformat',              {'bundle_dir': team_bundle_dir}
 Plugin 'leiming/vim-phpcheck',                {'bundle_dir': team_bundle_dir}
+
+" scala
+Bundle 'derekwyatt/vim-scala',                {'bundle_dir': team_bundle_dir}
 
 Bundle 'https://gameteam360@bitbucket.org/gameteam360/pylon_ide.git', {'bundle_dir': team_bundle_dir}
 " Bundle '2072/PHP-Indenting-for-VIm',        {'bundle_dir': team_bundle_dir}

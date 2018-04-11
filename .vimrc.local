@@ -248,3 +248,6 @@ nnoremap <C-W><C-O> :call VjMaximizeToggle()<CR>
 
 noremap <F6> :call CallPhpCheckSyntax()<CR>
 inoremap <F6> <ESC>:call CallPhpCheckSyntax()<CR>
+
+noremap <F10> :set paste<CR>
+noremap <F11> :set nopaste<CR>
