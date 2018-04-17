@@ -64,6 +64,8 @@ Bundle 'pangloss/vim-javascript',             {'bundle_dir': team_bundle_dir}
 Bundle 'mxw/vim-jsx',                         {'bundle_dir': team_bundle_dir}
 Bundle 'fatih/vim-go',                        {'bundle_dir': team_bundle_dir}
 Bundle "mattn/emmet-vim",                     {'bundle_dir': team_bundle_dir}
+Bundle "posva/vim-vue",                       {'bundle_dir': team_bundle_dir}
+Bundle "hail2u/vim-css3-syntax",              {'bundle_dir': team_bundle_dir}
 
 " Other
 Bundle "Lokaltog/vim-easymotion",             {'bundle_dir': team_bundle_dir}
@@ -82,7 +84,6 @@ Bundle 'https://gameteam360@bitbucket.org/gameteam360/pylon_ide.git', {'bundle_d
 " Bundle '2072/PHP-Indenting-for-VIm',        {'bundle_dir': team_bundle_dir}
 " Bundle 'lpenz/vimcommander'
 
-" 新增插件
 " 状态栏插件
 Bundle 'vim-airline/vim-airline',             {'bundle_dir': team_bundle_dir}
 Bundle 'vim-airline/vim-airline-themes',      {'bundle_dir': team_bundle_dir}
