@@ -36,3 +36,6 @@ source update.sh
 ```bash
 vim +BundleInstall +BundleClean! +qa
 ```
+
+### UI演示
+![UI演示](https://raw.githubusercontent.com/wiki/dzhcool/vimide/assets/images/ui.png)
