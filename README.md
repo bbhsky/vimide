@@ -7,6 +7,7 @@ VimIDE 是一款支持团队协同的集成化开发环境。与同类产品相�
 - 支持部署本机 Vim 除 rigger-ng 外全部功能，给予开发人员本地线上体验一致的 IDE 环境；
 - 安装方式与开发环境 VimIDE 升级一致，为 VimIDE 与 team 目录无缝解耦做好准备；
 - 完全兼容 Mac OS / Linux 环境，暂不支持 Windows 。
+- 兼容vim8.1
 
 ## 安装方式
 
@@ -17,7 +18,7 @@ VimIDE 是一款支持团队协同的集成化开发环境。与同类产品相�
 将 VJ 配置文件下载到任意「有权限的」文件夹下：
 
 ```bash
-git clone git@github.com:xcodecraft/vimide.git
+git clone https://github.com/dzhcool/vimide.git
 ```
 
 ### 2、设置并部署 VJ
